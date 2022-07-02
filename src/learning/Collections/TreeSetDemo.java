@@ -1,10 +1,16 @@
 package learning.Collections;
 
+import java.util.TreeSet;
+
 public class TreeSetDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	TreeSet<String> treeSet = new TreeSet<>();
+	treeSet.add("orange");
+	treeSet.add("banana");
+	treeSet.add("orange");
+	treeSet.add("apple");
+	System.out.println(treeSet);
 	}
 
 }
