@@ -1,4 +1,4 @@
-package learning.Arrays;
+package learning.arrays;
 
 public class TwoDimensionalArray {
 
