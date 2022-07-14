@@ -1,0 +1,11 @@
+package project.atm;
+
+public class ATM {
+
+	public static void main(String[] args) {
+		OptionMenu optionMenu = new OptionMenu();
+		optionMenu.getLogin();
+
+	}
+
+}
